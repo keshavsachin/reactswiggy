@@ -1,0 +1,25 @@
+.Main {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+}
+.Left {
+    height: 100vh;
+    width: 30%;
+    background-color: lightgray;
+}
+.Right {
+    height: 100vh;
+    width: 70%;
+    background-color: lightblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Rightcont {
+    height: 20vh;
+    width: 30%;
+    background-color: green;
+}

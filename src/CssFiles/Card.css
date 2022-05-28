@@ -1,0 +1,28 @@
+.Cardcont {
+    height: 100px;
+    width: 200px;
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    background-color: aqua;
+    border: none;
+    border-radius: 10px;
+    font-style: italic;
+}
+.Button {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    height: 150px;
+    width: 200px;
+    justify-content: space-evenly;
+}
+.main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: 100vh;
+    width: 100%;
+    background-color:blueviolet;
+}
+

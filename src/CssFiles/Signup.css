@@ -1,0 +1,45 @@
+.Maincontainer {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+
+}
+.Left {
+    height: 100vh;
+    width: 50%;
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Right {
+    height: 100vh;
+    width: 50%;
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: aliceblue;
+}
+.Input1 {
+    height: 30px;
+    width: 150px;
+    
+}
+.Signin {
+    height: 50px;
+    width: 130px;
+    background-color: orangered;
+    border: none;
+    border-radius: 20px;
+    color: white;
+}
+.Signup {
+    height: 50px;
+    width: 130px;
+    background-color: red;
+    border-color: white;
+    color: aliceblue;
+    border-radius: 20px;
+}
