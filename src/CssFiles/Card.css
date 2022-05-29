@@ -17,12 +17,5 @@
     width: 200px;
     justify-content: space-evenly;
 }
-.main {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    height: 100vh;
-    width: 100%;
-    background-color:blueviolet;
-}
+
 
